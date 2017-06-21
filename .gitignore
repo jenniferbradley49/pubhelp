@@ -1,0 +1,6 @@
+/vendor
+
+/public/storage
+/database/seeds/users_table_seeder.php
+.env.*
+.env
